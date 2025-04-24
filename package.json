@@ -1,0 +1,17 @@
+{
+  "name": "data-science-portfolio",
+  "version": "1.0.0",
+  "description": "A responsive portfolio website to showcase data science projects",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "data-science",
+    "portfolio",
+    "responsive",
+    "website"
+  ],
+  "author": "",
+  "license": "MIT"
+}

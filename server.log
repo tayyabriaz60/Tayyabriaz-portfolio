@@ -1,0 +1,16 @@
+Server running at http://localhost:12001/
+Access from outside at https://work-2-ehyduzsvefpupssz.prod-runtime.all-hands.dev/
+GET /
+GET /
+GET /
+GET /css/style.css
+GET /images/profile.jpg
+GET /images/project1.jpg
+GET /images/project3.jpg
+GET /images/project2.jpg
+GET /images/project4.jpg
+GET /js/script.js
+GET /images/project5.jpg
+GET /images/project6.jpg
+GET /
+GET /
